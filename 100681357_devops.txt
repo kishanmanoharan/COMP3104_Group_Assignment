@@ -1,3 +1,7 @@
 Devops info
 
 teacher name: Pritesh Patel
+
+DevOps is a combination of software development and
+information technology operations that enables
+businesses to deliver applications at a faster pace
