@@ -2,4 +2,6 @@ Kishan Manoharan
 101266708
 kishan.manoharan@georgebrown.ca
 
-The DevOps course COMP 3104 is a great class that mainly focuses on utilizing CVS like GitHub
+The DevOps course COMP 3104 is a great class that mainly focuses on 
+utilizing CVS's like GitHub. GitHub is an amazing tool for software development, 
+enabling seamless collaboration and teamwork to build programs, projects, and visions.
