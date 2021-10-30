@@ -1,6 +1,8 @@
+The SDLC is important as it provides a systemitized
+structure for the deveopment of a software, making it more efficient and effective.
+
 DevOps is important because the software development landscape changes rapidly
 and the DevOps model is one of the Faster and more efficient models
 
-DevOps is
 
 
