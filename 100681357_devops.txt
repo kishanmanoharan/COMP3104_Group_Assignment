@@ -2,6 +2,12 @@ Devops info
 
 teacher name: Pritesh Patel
 
+class time is 5:00pm to 8:00pm
+
 DevOps is a combination of software development and
 information technology operations that enables
 businesses to deliver applications at a faster pace
+
+due to a bizarre error we have lost most of our marks prior to week 5
+
+
