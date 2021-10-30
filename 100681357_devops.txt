@@ -10,4 +10,6 @@ businesses to deliver applications at a faster pace
 
 due to a bizarre error we have lost most of our marks prior to week 5
 
+i have been mass uploading my work via the git add . command and it turns out that means my
+my commits are lower then what is necessary to pass in this project
 
