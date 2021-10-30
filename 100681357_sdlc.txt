@@ -1,4 +1,6 @@
 DevOps is important because the software development landscape changes rapidly
 and the DevOps model is one of the Faster and more efficient models
 
-curently we are working with github but are doing more travis work going forwards
+DevOps is
+
+
