@@ -2,3 +2,8 @@ The course COMP 3104 devops course is a course that prepares professionals
 that are wanting to become professionals in the IT field. It is taught by 
 the instructors that have much experience in these areas at georgebrown 
 college. 
+
+The main comcept in devops is the tracking a softwares or works ccomplete
+history cycle in a transparent and organized fashion. When devlopers work 
+on a project, they track and record all changes on github which is a source 
+code management website.  
