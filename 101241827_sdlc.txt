@@ -2,5 +2,7 @@ As we know devops engineering is very important in a software's development
 cycle. Unlike prior generations, devops allows programmers to track their 
 working progress and push it onto a virtual atmosphere.
 
+This is important in a software's development as it give the programmer more
+security and allows them to work on their projects safely.
  
 
